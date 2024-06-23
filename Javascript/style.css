@@ -1,0 +1,17 @@
+* {
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+
+}
+body {
+
+    height: 100dvh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right,rgb(151, 197, 44),rgb(103, 172, 47));
+}    
+    
+
